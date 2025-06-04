@@ -35,13 +35,13 @@
     "@radix-ui/react-tabs": "^1.1.11",
     "@radix-ui/react-toast": "^1.2.13",
     "@supabase/ssr": "^0.6.1",
-    "@supabase/supabase-js": "^2.49.4",
+    "@supabase/supabase-js": "^2.49.10",
     "@tanstack/react-table": "^8.21.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
     "lodash.throttle": "^4.1.1",
-    "lucide-react": "^0.511.0",
+    "lucide-react": "^0.513.0",
     "next": "15.3.3",
     "react": "19.1.0",
     "react-dom": "19.1.0",
@@ -54,7 +54,7 @@
     "@types/lodash.throttle": "^4.1.9",
     "@types/node": "^22.15.19",
     "@types/react": "19.1.6",
-    "@types/react-dom": "19.1.5",
+    "@types/react-dom": "19.1.6",
     "@vercel/git-hooks": "^1.0.0",
     "eslint": "^9.27.0",
     "eslint-config-next": "15.3.3",
@@ -67,7 +67,7 @@
   "pnpm": {
     "overrides": {
       "@types/react": "19.1.6",
-      "@types/react-dom": "19.1.5"
+      "@types/react-dom": "19.1.6"
     }
   }
 }

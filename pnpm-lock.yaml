@@ -16,8 +16,8 @@ importers:
         specifier: ^1.4.1
         version: 1.4.1
       '@paddle/paddle-node-sdk':
-        specifier: ^2.7.2
-        version: 2.7.2
+        specifier: ^3.3.0
+        version: 3.3.0
       '@radix-ui/react-accordion':
         specifier: ^1.2.10
         version: 1.2.11(@types/react-dom@19.1.5(@types/react@19.1.6))(@types/react@19.1.6)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -434,9 +434,9 @@ packages:
   '@paddle/paddle-js@1.4.1':
     resolution: {integrity: sha512-GKuXVnUAIGq4H1AxrPRRMZXl+pTSGiKMStpRlvF6+dv03BwhkqbyHJJZ39e6bMquVbYSa33/9cu6fuW8pie8aQ==}
 
-  '@paddle/paddle-node-sdk@2.7.2':
-    resolution: {integrity: sha512-CgwdeLvw10mH92A6UsUBiaEUFC+XHrxxb2Uo3tvCoA95mulU5r/A7rUAzZrNQdPyIZahN1IXneUbv0yN6yilWQ==}
-    engines: {node: '>=18'}
+  '@paddle/paddle-node-sdk@3.3.0':
+    resolution: {integrity: sha512-di/eXGFjmzt6eHharQ04JM5tEvE6QClw4Jzhahti8oQree5QwUDUk53mNsNTJIVHxT8P4S3RcwTA92+QB9ZYpQ==}
+    engines: {node: '>=20'}
 
   '@radix-ui/number@1.1.1':
     resolution: {integrity: sha512-MkKCwxlXTgz6CFoJx3pCwn07GKp36+aZyu/u2Ln2VrA5DcdyCZkASEDBTd8x5whTQQL5CiYf4prXKLcgQdv29g==}
@@ -2868,7 +2868,7 @@ snapshots:
 
   '@paddle/paddle-js@1.4.1': {}
 
-  '@paddle/paddle-node-sdk@2.7.2': {}
+  '@paddle/paddle-node-sdk@3.3.0': {}
 
   '@radix-ui/number@1.1.1': {}
 
